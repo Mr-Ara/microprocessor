@@ -1,0 +1,72 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\AmiReza\Desktop\Assembly Project\project01\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Source\atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>D:\Program Source\atmel\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Source\atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32def.inc</FILE>
+  <FILE>D:/Program Source\atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\M32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\Debug\project01.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>project01.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>project01.map</FILE>
+  <FILE>project01.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainFunction><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>130</LINE></MainFunction>
+  <L0><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>156</LINE></L0>
+  <L1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>170</LINE></L1>
+  <L2><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>175</LINE></L2>
+  <L3><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>189</LINE></L3>
+  <L4><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>206</LINE></L4>
+  <L5><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>211</LINE></L5>
+  <C1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>146</LINE></C1>
+  <L6><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>237</LINE></L6>
+  <C2><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>150</LINE></C2>
+  <L7><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>263</LINE></L7>
+  <L8><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>292</LINE></L8>
+  <N0><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>164</LINE></N0>
+  <EXT><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>321</LINE></EXT>
+  <N1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>179</LINE></N1>
+  <N2><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>192</LINE></N2>
+  <N3><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>198</LINE></N3>
+  <N4><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>201</LINE></N4>
+  <N5><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>203</LINE></N5>
+  <CHECK><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>323</LINE></CHECK>
+  <N10><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>219</LINE></N10>
+  <N11><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>223</LINE></N11>
+  <N12><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>233</LINE></N12>
+  <N13><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>245</LINE></N13>
+  <N14><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>249</LINE></N14>
+  <N15><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>259</LINE></N15>
+  <N16><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>271</LINE></N16>
+  <N17><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>275</LINE></N17>
+  <N18><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>288</LINE></N18>
+  <CHECK2><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>344</LINE></CHECK2>
+  <CHECK3><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>358</LINE></CHECK3>
+  <N19><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>300</LINE></N19>
+  <N20><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>304</LINE></N20>
+  <N21><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>317</LINE></N21>
+  <CHECK7><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>372</LINE></CHECK7>
+  <Z2><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>325</LINE></Z2>
+  <Z3><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>340</LINE></Z3>
+  <Z0><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>331</LINE></Z0>
+  <Z1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>337</LINE></Z1>
+  <Y0><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>347</LINE></Y0>
+  <Y1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>354</LINE></Y1>
+  <X0><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>361</LINE></X0>
+  <X1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>368</LINE></X1>
+  <W0><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>375</LINE></W0>
+  <W1><FILE>C:\Users\AmiReza\Desktop\Assembly Project\project01\main.asm</FILE><LINE>382</LINE></W1>
+ </LABELS>
+</ASSEMBLER_INFO>
